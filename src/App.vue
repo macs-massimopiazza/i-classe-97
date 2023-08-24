@@ -30,8 +30,8 @@ export default {
         { testo: "tutti per uno e uno per nessuno", nome: "Fabio" },
         { testo: "È proprio l'ora del tè con degli ottimi biscottini", nome: "Manuel"},
         { testo: "La pacchia è finita cit.", nome: "Gianbattista" },
+        { testo: "Il gatto è nel sacco", nome: "Alessandra" },
         { testo: "qualcosa di emozionante", nome: "Alessandra" },
-        
       ],
     };
   },
