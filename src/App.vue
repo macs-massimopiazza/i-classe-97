@@ -21,6 +21,7 @@ export default {
       frasi: [
         { testo: "non dire sacco se non ce l'hai nel gatto", nome: "Massimo" },
         { testo: "io sono un gatto e non un sacco", nome: "Massimo" },
+        { testo: "Un programmatore è in ritardo, si sta prepa...random()", nome: "Carlo" },
       ],
     };
   },
