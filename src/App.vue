@@ -1,5 +1,5 @@
 <template>
-  <h1 style="color: #9cff2b">🎡🥰Vivaaaaa Classe 97🥰🎡</h1>
+  <h1 style="color: rgb(97 13 166); font-size: 4rem;">🎡🥰Vivaaaaa Classe 97🥰🎡</h1>
   <h3>yayaya</h3>
   <p style="color: #fa1afa">
     💕I vostri insegnanti e coordinatori: Luca, Simone, Giovanni, Massimox2 💕
@@ -20,6 +20,7 @@ export default {
     return {
       frasi: [
         { testo: "non dire sacco se non ce l'hai nel gatto", nome: "Massimo" },
+        { testo: "io sono un gatto e non un sacco", nome: "Massimo" },
       ],
     };
   },
