@@ -11,6 +11,7 @@
       <span style="font-style: italic"> -{{ frase.nome }}</span>
     </li>
   </ul>
+  <img src="https://i.imgflip.com/7wsr35.jpg" alt="">
 </template>
 
 <script>
