@@ -22,6 +22,8 @@ export default {
         { testo: "non dire sacco se non ce l'hai nel gatto", nome: "Massimo" },
         { testo: "io sono un gatto e non un sacco", nome: "Massimo" },
         { testo: "Un programmatore è in ritardo, si sta prepa...random()", nome: "Carlo" },
+        { testo: "Ciao a tutti è stato un onore", nome: "Michele" },
+        { testo: "La pacchia è finita cit.", nome: "Gianbattista" },
       ],
     };
   },
