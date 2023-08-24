@@ -11,7 +11,7 @@
       <span style="font-style: italic"> -{{ frase.nome }}</span>
     </li>
   </ul>
-  <a href="https://imgflip.com/i/7wsr35"><img src="https://i.imgflip.com/7wsr35.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">Lascio parlare le immagini</a></div>
+  <img src="https://i.imgflip.com/7wsr35.jpg" alt="">
 </template>
 
 <script>
