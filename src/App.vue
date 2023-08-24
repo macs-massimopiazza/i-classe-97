@@ -23,6 +23,11 @@ export default {
         { testo: "io sono un gatto e non un sacco", nome: "Massimo" },
         { testo: "Ciao a tutti è stato un onore", nome: "Michele" },
         { testo: "Ciao sono un testo", nome: "Nicola" }
+        { testo: "Sono un orco e questo è il mio fork-one", nome: "Shrek" },
+        { testo: "Ciao a tuuutttttiiii", nome: "Jeremy" },
+        { testo: "tutti per uno e uno per nessuno", nome: "Fabio" },
+        { testo: "È proprio l'ora del tè con degli ottimi biscottini", nome: "Manuel"},
+        { testo: "La pacchia è finita cit.", nome: "Gianbattista" },
       ],
     };
   },
